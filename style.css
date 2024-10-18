@@ -69,8 +69,8 @@ footer {
 }
 
 footer {
-    background-color: rgb(26, 46, 230);
-    color: rgb(47, 185, 219);
+    background-color: rgb(180, 225, 247);
+    color: rgb(38, 148, 175);
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -93,7 +93,7 @@ footer p {
 }
 
 body {
-    background-color: rgb(87, 173, 47);
+    background-color: rgb(8, 56, 75);
     font-family: Bai Jamjuree;
 }
 
